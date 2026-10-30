@@ -1,0 +1,14 @@
+{
+  "schema_version": "passation.git.v1",
+  "revision": "59e1945",
+  "author_filter": "ylan (case-insensitive)",
+  "scope": "ancestors of the recorded revision, not every unrelated branch",
+  "commits": [
+    {
+      "hash": "59e1945dc5660ab8a074c9318222b9201c2546ef",
+      "date": "2026-04-10T17:14:02+03:00",
+      "author": "YlanDecode",
+      "subject": "feat: qrcode"
+    }
+  ]
+}
